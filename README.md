@@ -1,2 +1,2 @@
 # Tabla en HTML
-### Tabla y Conseptos de HTML
+### Tabla y Conceptos de HTML
